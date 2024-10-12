@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Diagnal/static/css/main.f9fac443.css",
-    "main.js": "/Diagnal/static/js/main.f26f77e4.js",
+    "main.js": "/Diagnal/static/js/main.4af01ad2.js",
     "static/js/453.10911d25.chunk.js": "/Diagnal/static/js/453.10911d25.chunk.js",
     "index.html": "/Diagnal/index.html",
     "main.f9fac443.css.map": "/Diagnal/static/css/main.f9fac443.css.map",
-    "main.f26f77e4.js.map": "/Diagnal/static/js/main.f26f77e4.js.map",
+    "main.4af01ad2.js.map": "/Diagnal/static/js/main.4af01ad2.js.map",
     "453.10911d25.chunk.js.map": "/Diagnal/static/js/453.10911d25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9fac443.css",
-    "static/js/main.f26f77e4.js"
+    "static/js/main.4af01ad2.js"
   ]
 }
